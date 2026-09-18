@@ -1,5 +1,5 @@
 ### Hi, I'm Yaroslav Mykhailenko 👋
-
+---
 🎓 **Software Engineering student** at Chernivtsi National University (ChNU)  
 💻 Learning software development, system administration, and modern dev tools  
 🌱 Exploring Git, Linux systems, and Python  
