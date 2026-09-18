@@ -27,5 +27,3 @@
 * **GitHub:** [@mihaylenkoYaroslav](https://github.com/mihaylenkoYaroslav)  
 
 ---
-
-⭐️ *Feel free to check out my repositories and follow my progress!*
